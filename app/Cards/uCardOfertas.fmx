@@ -1,0 +1,36 @@
+object CardOfertas: TCardOfertas
+  Shadow.Enabled = True
+  Shadow.Color = claGray
+  Shadow.Radius = 24.000000000000000000
+  Shadow.Distance = 3.000000000000000000
+  Shadow.Opacity = 0.600000023841857900
+  Origin = coNone
+  OriginAlign = Center
+  OriginRound = False
+  CursorEnter = crDefault
+  Fill.Color = claWhite
+  Stroke.Thickness = 0.000000000000000000
+  CanFocus = True
+  Size.Width = 391.000000000000000000
+  Size.Height = 200.000000000000000000
+  Size.PlatformDefault = False
+  Margins.Left = 8.000000000000000000
+  Margins.Top = 8.000000000000000000
+  Margins.Right = 8.000000000000000000
+  Margins.Bottom = 8.000000000000000000
+  Appearance.Color = claWhite
+  Appearance.ColorSelected = claNull
+  Appearance.Columns = 1
+  Appearance.AutoHeight = False
+  Appearance.Corners = [TopLeft, TopRight, BottomLeft, BottomRight]
+  Appearance.CornerType = Round
+  Appearance.EdgeSides = [Top, Left, Bottom, Right]
+  Appearance.EdgeColor = claBlack
+  AutoHide = True
+  HeaderIndex = -1
+  Selected = False
+  Spacing = 8.000000000000000000
+  CardType = ctUnique
+  SlideLeft = False
+  SlideRight = False
+end

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/29 20:12:40.000.254,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/15 13:29:42.000.974,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/29 20:59:19.000.783,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/06 22:30:39.000.239,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 20:55:12.000.690,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/02/02 20:55:13.000.046,=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/02/02 20:57:31.000.401,C:\Users\jaque\Desktop\Supermercardo\Server\uWebModule.pas=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/02/02 20:57:31.000.401,C:\Users\jaque\Desktop\Supermercardo\Server\uWebModule.dfm=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.dfm</Transaction>
+    <Transaction>2022/02/02 20:57:40.000.492,C:\Users\jaque\Desktop\Supermercardo\Server\uPrincipal.pas=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/02/02 20:57:40.000.492,C:\Users\jaque\Desktop\Supermercardo\Server\uPrincipal.fmx=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\FormUnit1.fmx</Transaction>
+    <Transaction>2022/02/02 20:57:46.000.258,C:\Users\jaque\Desktop\Supermercardo\Server\ServerMercado.dproj=C:\Users\jaque\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
